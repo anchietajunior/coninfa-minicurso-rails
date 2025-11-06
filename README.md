@@ -69,3 +69,16 @@ css: rails tailwindcss:watch
 ```shell
 foreman start -f Procfile.dev
 ```
+
+### Autenticação
+
+```shell
+rails generate authentication
+```
+
+### Gerar um novo controller + view
+
+```shell
+rails generate controller pages home
+```
+
