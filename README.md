@@ -56,3 +56,16 @@ rails new contentmaster --css tailwind -d postgresql --skip-kamal
 ```shell
 rails generate scaffold Publication title content:text
 ```
+
+### Executar o projeto Rails
+
+Arquivo Procfile.dev
+
+```ruby
+web: rails server
+css: rails tailwindcss:watch
+```
+
+```shell
+foreman start -f Procfile.dev
+```
