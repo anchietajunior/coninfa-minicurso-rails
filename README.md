@@ -1,0 +1,1 @@
+# coninfa-minicurso-rails
