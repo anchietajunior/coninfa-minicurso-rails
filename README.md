@@ -86,3 +86,9 @@ User.create(name: "Nome", email_address: "dev@dev.com", password: "dev")
 rails generate controller pages home
 ```
 
+### Exemplos de HTML + Tailwind
+
+[Home](https://codepen.io/anchietajunior/pen/yyeWmKq)
+
+[Dashboard](https://codepen.io/anchietajunior/pen/WbrPzJz)
+
