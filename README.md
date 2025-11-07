@@ -92,3 +92,4 @@ rails generate controller pages home
 
 [Dashboard](https://codepen.io/anchietajunior/pen/WbrPzJz)
 
+[GoRails](https://gorails.com/setup/ubuntu/26.04)
