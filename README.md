@@ -76,6 +76,10 @@ foreman start -f Procfile.dev
 rails generate authentication
 ```
 
+```ruby
+User.create(name: "Nome", email_address: "dev@dev.com", password: "dev")
+```
+
 ### Gerar um novo controller + view
 
 ```shell
